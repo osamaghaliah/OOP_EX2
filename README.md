@@ -18,4 +18,5 @@ Methods, functions and complexity:
   Testers were professionally made, the whole functions passed its tester successfully.
   Eventaully, we managed to create a unique GUI (Graphical User Interface) that draws the input graphs -
   G1.json, G2.json, G3.json - by using an our own Ex2.jar file that runs via Command Prompt by using the following command:
-  java -jar Ex2.jar <json file> 
+  java -jar Ex2.jar <json file>
+  it exists in our/artificats
